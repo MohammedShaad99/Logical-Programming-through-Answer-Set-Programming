@@ -40,7 +40,7 @@ problem, given n, m, k, p, coi
 , ui
 , sci
 for all 1 ≤ i ≤ n. Document your code so
-the following is clear.<br><br>
+the following is clear.<br>
 (a) How it should be used.<br>
 (b) What the approach to solving the problem is. In particular, you need to explain
 what each rule achieves and how the rule achieves it.<br>
